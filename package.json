@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
+  "deploy": "gh-pages -b master -d build",
   "homepage": "https://github.com/ibrahimselcuk034/dnd_todo_exm.git",
   "dependencies": {
     "@babel/core": "^7.12.3",
