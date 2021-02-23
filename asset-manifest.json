@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ibrahimselcuk034/dnd_todo_exm.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ibrahimselcuk034/dnd_todo_exm.git/static/js/main.bef65c3d.chunk.js",
+    "main.js.map": "/ibrahimselcuk034/dnd_todo_exm.git/static/js/main.bef65c3d.chunk.js.map",
+    "runtime-main.js": "/ibrahimselcuk034/dnd_todo_exm.git/static/js/runtime-main.91256300.js",
+    "runtime-main.js.map": "/ibrahimselcuk034/dnd_todo_exm.git/static/js/runtime-main.91256300.js.map",
+    "static/js/2.fa1d2d7d.chunk.js": "/ibrahimselcuk034/dnd_todo_exm.git/static/js/2.fa1d2d7d.chunk.js",
+    "static/js/2.fa1d2d7d.chunk.js.map": "/ibrahimselcuk034/dnd_todo_exm.git/static/js/2.fa1d2d7d.chunk.js.map",
+    "static/js/3.be9f9471.chunk.js": "/ibrahimselcuk034/dnd_todo_exm.git/static/js/3.be9f9471.chunk.js",
+    "static/js/3.be9f9471.chunk.js.map": "/ibrahimselcuk034/dnd_todo_exm.git/static/js/3.be9f9471.chunk.js.map",
+    "index.html": "/ibrahimselcuk034/dnd_todo_exm.git/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/ibrahimselcuk034/dnd_todo_exm.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.fa1d2d7d.chunk.js.LICENSE.txt": "/ibrahimselcuk034/dnd_todo_exm.git/static/js/2.fa1d2d7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91256300.js",
+    "static/js/2.fa1d2d7d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.bef65c3d.chunk.js"
+  ]
+}
